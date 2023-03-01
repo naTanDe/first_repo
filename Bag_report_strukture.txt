@@ -1,0 +1,13 @@
+Bag report
+
+  ID:
+  Title:
+  Severity:
+  Priority:
+  Environment:
+  Module:
+  Element:
+  Steps:
+  Expected Result":
+  Actual Result:
+  Attacments::
